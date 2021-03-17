@@ -1,2 +1,2 @@
 # 2021-march-meetup
-Presentation slides from meetup
+Materials and presentations from March 18th meetup.
